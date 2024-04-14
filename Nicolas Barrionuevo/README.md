@@ -1,11 +1,4 @@
-# TRABAJO PRACTICO Nº 1: ISPC-EM
+# LISTA DE TRABAJOS PRACTICOS → Electrónica Microcontrolada - TST - 2024
 
-## Guia Rapida:
-
-**A→** Requisitos del trabajo practico.
-
-**B→** Investigacion por parte del alumno.
-
-**C→** Prototipos de los circuitos.
-
-**recursos→** Recusos de imagenes utilizadas.
+**Profesor→** Gonzalo Vera.  
+**Alumno→** Nicolás Barrionuevo.
