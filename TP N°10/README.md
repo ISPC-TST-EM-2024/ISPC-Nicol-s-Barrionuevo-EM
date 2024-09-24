@@ -24,7 +24,6 @@ La estructura del directorio **TP10** está organizada de acuerdo con la metodol
 - **C - Prototipo**: Desarrollo de la práctica, incluyendo el código fuente y las simulaciones realizadas.
 - **D - Presentación**: Video demostrativo (3 minutos) presentando la solución implementada.
 - **E - Assets**: Recorte e imagenes.
-- **README.md**: Este archivo con la descripción general del trabajo práctico.
 
 ## Profesor
 
